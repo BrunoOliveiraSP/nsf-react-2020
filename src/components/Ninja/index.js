@@ -11,4 +11,5 @@ export default function Ninja() {
             Bora seja Ninjaaaa!
         </h3>
     )
-}   
+}
+

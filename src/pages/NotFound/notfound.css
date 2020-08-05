@@ -1,0 +1,14 @@
+
+
+.box-not-found {
+    display: flex;
+    flex-direction: row;
+
+    min-height: 100vh;
+    justify-content: center;
+    align-items: center;
+}
+
+.box-not-found img {
+    width: 90%;
+}
